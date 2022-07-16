@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hassanmoid
 - 👀 I’m interested in applying machine learning on various domains such as finance, travel, retail.
-- 🌱 I’m currently learning applications of deep learning
+- 🌱 I’m currently learning and implementing applications of deep learning
 - 💞️ I’m looking to collaborate on any solution using ML.
 - 📫 How to reach me - > has.moid@gmail.com
 
